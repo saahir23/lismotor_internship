@@ -1,0 +1,41 @@
+[
+    {
+        "query": "CanooInc company overview",
+        "urls": [
+            "https://investors.canoo.com/",
+            "https://www.canoo.com/",
+            "https://investors.canoo.com/company-information",
+            "https://finance.yahoo.com/quote/GOEV/"
+        ]
+    },
+    {
+        "query": "analysis of the Industry in which the Canoo inc operates",
+        "urls": [
+            "https://www.press.canoo.com/press-release/canoo-announces-expansion-of-partnership-with-department-of-defenses-defense-innovation-unit-to-further-develop-new-high-power-battery-pack",
+            "https://investors.canoo.com/",
+            "https://www.press.canoo.com/press-release/canoo-announces-ev-battery-module-manufacturing-facility-in-oklahoma"
+        ]
+    },
+    {
+        "query": "Canoo Inc's main competitors analysis growth,trends",
+        "urls": [
+            "https://dcf.fm/blogs/blog/goev-swot-analysis",
+            "https://www.macroaxis.com/invest/ratio/GOEV/Book-Value-Per-Share"
+        ]
+    },
+    {
+        "query": "Canoo inc's key trends in the market analysis",
+        "urls": [
+            "https://dcf.fm/blogs/blog/goev-swot-analysis",
+            "https://finance.yahoo.com/news/five-below-inc-nasdaq-five-140336000.html",
+            "https://www.stocktitan.net/news/GOEV/canoo-inc-announces-third-quarter-2023-4v32deyx5d2i.html",
+            "https://www.macroaxis.com/invest/ratio/GOEV/Number-of-Employees"
+        ]
+    },
+    {
+        "query": "Canoo inc's financial performance, including its revenue, profit margins, return on investment, and expense structure analysis",
+        "urls": [
+            "https://www.alphaspread.com/security/nasdaq/goev/summary"
+        ]
+    }
+]
